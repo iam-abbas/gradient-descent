@@ -6,7 +6,7 @@ Visualize gradient descent in 2D Plane using
 - run main.py
 
 
-![gradient-descent](http://github.com/iam-abbas/gradient-descent/gd.gif)
+![gradient-descent](https://github.com/iam-abbas/gradient-descent/blob/master/gd.gif)
 
 
 Note: Currently it shows animation of only final iteration. I'll try to add animation of all iterations when I get time for it. Feel free to use this script.
