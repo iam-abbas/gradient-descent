@@ -1,5 +1,5 @@
 # Gradient Descent
-Visualize gradient descent in 2D Plane using 
+Visualize gradient descent in 2D Plane using matplotlib and numpy
 
 # Usage
 - install numpy and matplotlib
